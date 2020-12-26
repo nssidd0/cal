@@ -52,6 +52,8 @@ body::after
 {
 	position: relative;
 	display: grid;
+	height: auto;
+	width: auto;
 }
 .container .calculator .value
 {
